@@ -11,4 +11,5 @@ It extracts top trending posts from social media and then forms a searchable que
 1. InstagramScraper.py <br>
 2. For comparison with Shopping Site i.e Flipkart run FlipkartScraper.py <br>
 3. Use model.pth for detecting fashion labels <br>
+<br>
 You can find results in ``Outputs`` folder.
