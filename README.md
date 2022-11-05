@@ -8,3 +8,4 @@ This model solves this very problem.
 It extracts top trending posts from social media and then forms a searchable query on flipkart and shows all the similar products which are then compared to the initial product using cosine distance.
 
 
+
